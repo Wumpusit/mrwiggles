@@ -47,4 +47,7 @@ technews, contribute.
 <img src="https://cdn.discordapp.com/attachments/764121570690990100/764121912879218748/2.png" alt="Italian Trulli">
 
 <h1> Invite Bot <a href="https://discord.com/oauth2/authorize?client_id=758424457781313540&permissions=1812462673&scope=bot">Here</a></h1>
-[![Bots for Discord](https://botsfordiscord.com/api/bot/758424457781313540/widget)](https://botsfordiscord.com/bots/758424457781313540)
+
+
+<a href="https://botsfordiscord.com/bots/758424457781313540" >
+            <img src="https://botsfordiscord.com/api/bot/758424457781313540/widget" title="Visit Mr.wiggles listed on Bots for Discord!" alt="Mr.wiggles's Widget Failed to Load" /></a>
