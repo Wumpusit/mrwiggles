@@ -2,6 +2,10 @@
 )
 #MR wiggles
 Mr wiggles is a Fun discord bot
+
+#About Mr.Wiggles
+
+
 <h1>mr.Wiggles</h1>
 <h2><b>G’day, we’re Mr.Wiggles. We make Fun discord bots</b></h2>
 
@@ -43,3 +47,4 @@ technews, contribute.
 <img src="https://cdn.discordapp.com/attachments/764121570690990100/764121912879218748/2.png" alt="Italian Trulli">
 
 <h1> Invite Bot <a href="https://discord.com/oauth2/authorize?client_id=758424457781313540&permissions=1812462673&scope=bot">Here</a></h1>
+[![Bots for Discord](https://botsfordiscord.com/api/bot/758424457781313540/widget)](https://botsfordiscord.com/bots/758424457781313540)
