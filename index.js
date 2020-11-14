@@ -462,4 +462,4 @@ client.on("message", (message) => {
   const eerrnopermmanmsg = new Discord.MessageEmbed();
 });
 
-client.login(process.env.DISCORD_TOKEN);
+client.login(YourToken);
